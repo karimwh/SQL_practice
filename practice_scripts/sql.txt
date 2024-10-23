@@ -1,0 +1,4 @@
+USE [master]
+Select * FROM sys.-- Get a list of databases
+SELECT name FROM sys.databases
+GO
